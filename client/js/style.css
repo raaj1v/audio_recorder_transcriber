@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}
+
+#transcription {
+    margin: 20px;
+}
